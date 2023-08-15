@@ -30,4 +30,5 @@ More example data for testing can be download at [releases.](https://github.com/
 Xiaqiong Fan: fxq@haut.edu.cn
 Zhimin Zhang: zmzhang@csu.edu.cn
 
-This file is DeepRaman for testing.
+# This file is DeepRaman for testing.
+# This repository is only intended for local validation and testing purposes.
